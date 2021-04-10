@@ -1,0 +1,10 @@
+pkgs:
+  zulkan:
+    version: 0.1.0
+    license: MIT
+    source_url: "https://github.com/Exonorid/zulkan"
+
+    root: src/main.zig
+    files:
+      README.md
+      LICENSE
