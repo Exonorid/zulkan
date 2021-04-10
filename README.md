@@ -1,1 +1,1 @@
-# zulkan
+# Zulkan: Vulkan bindings for Zig
